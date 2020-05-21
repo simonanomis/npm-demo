@@ -18,6 +18,7 @@
   "homepage": "https://github.com/simonanomis/npm-demo#readme",
   "dependencies": {
     "mongoose": "^5.9.14",
+    "simona-lion": "^1.0.0",
     "underscore": "^1.10.2"
   },
   "devDependencies": {
